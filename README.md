@@ -47,9 +47,7 @@ Interned at **Seconize Technologies** (AppSec & compliance automation), research
 
 ## 💡 Skills
 - **Languages**: Python, C, Java, SQL, HTML, JavaScript
-- **ML / Security**: TensorFlow, PyTorch, CNNs, Transformer models (BERT, MuRIL, XLM-RoBERTa), MalConv, adversarial ML
+- **Machine Learning**: TensorFlow, PyTorch, CNNs, Transformer models (BERT, MuRIL, XLM-RoBERTa)
+- **Security**: MalConv, Adversarial ML, Malware Analysis, Application Security
 - **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Tools**: Git, Data Structures & Algorithms, Constraint Programming (Google OR-Tools)
-
-## ⚡ Fun Fact
-- I enjoy reading and working out when I'm not training models or chasing paper deadlines!
